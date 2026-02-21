@@ -2,7 +2,7 @@
 
 A fun and educational app that helps kids find similar words and objects using AI!
 
-![App Demo](screenshots/Screenshot1.png)
+
 
 ## 🚀 Live Demo
 
@@ -28,10 +28,7 @@ and instantly find similar things!
 - **Streamlit** - Web interface
 - **Python 3.10+**
 
-## 📸 Screenshots
 
-![Main Interface](Screenshot 1.png)
-![Similar Words Result](Screenshot 2.png)
 ## 🚀 Installation
 
 1. Clone the repository:
