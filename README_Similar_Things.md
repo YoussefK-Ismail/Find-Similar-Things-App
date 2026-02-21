@@ -30,9 +30,8 @@ and instantly find similar things!
 
 ## 📸 Screenshots
 
-![Main Interface](screenshots/Screenshot1.png)
-![Similar Words Result](screenshots/Screenshot2.png)
-
+![Main Interface](Screenshot 1.png)
+![Similar Words Result](Screenshot 2.png)
 ## 🚀 Installation
 
 1. Clone the repository:
